@@ -1,0 +1,27 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+*.class
+*.log
+
+# Build
+target/
+build/
+*.jar
+*.war
+*.zip
+
+# Maven
+.m2/
+*.pom
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime
+config.yml
+persistance.db
+data/
+logs/
